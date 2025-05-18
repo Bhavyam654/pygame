@@ -7,7 +7,7 @@ f = (301,140,40,60)
 g = (200,200,101,40)
 h = (300,240,40,110)
 j = (200,350,100,40)
-gameloop = True
+
 gameloop = True
 while gameloop:
     for event in pygame.event.get():
